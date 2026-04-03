@@ -1,0 +1,12 @@
+# environment
+.venv/
+__pycache__/
+
+# data
+data-lake/
+*.parquet
+*.pkl
+*.db
+
+# misc
+.DS_Store
