@@ -46,6 +46,8 @@ FROM fact_comments_final f
 JOIN dim_topic t ON f.topic_id = t.rowid
 GROUP BY t.Topic
 ORDER BY avg_sentiment DESC;
+```
 
 ## Future Work
 - Integrate real-time streaming data from Reddit API (pending approval)
+
