@@ -5,7 +5,10 @@ This project builds an end-to-end data pipeline to process and analyze large-sca
 
 ## Architecture
 
-![Pipeline Diagram](pipeline.png)
+
+<p align="center">
+	<img src="pipeline.png" alt="Pipeline Diagram" width="300"/>
+</p>
 
 
 ## Tech Stack
