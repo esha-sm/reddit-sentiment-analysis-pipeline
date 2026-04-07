@@ -32,9 +32,10 @@ This project builds an end-to-end data pipeline to process and analyze large-sca
 
 ## Example Insights
 
-- Most discussed Reddit topics
-- Average sentiment per topic
-- Engagement patterns based on comment scores
+- Analyzed distribution of Reddit comments into sentiment categories (good, bad, neutral)
+- Identified topics with dominant sentiment patterns (positive vs negative discussions)
+- Evaluated engagement (comment scores) across different sentiment classes
+
 
 
 
